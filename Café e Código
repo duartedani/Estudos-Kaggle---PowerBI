@@ -1,0 +1,22 @@
+Os programadores libaneses tomam mais cafés?
+
+Este banco de dados representa uma amostra da pesquisa NET Heroes, realizada no Líbano para identificar se os programadores libaneses 
+tomam mais cafés que os outros cidadões não programadores. A média de xicaras de cafés tomadas pela população libanesa são de
+1,4 xícaras de café por dia.
+
+Para identificar o perfil dos programdores, foram feitas as seguintes perguntas:
+
+    Qual faixa etária toma mais cafe 
+    Se o programador trabalha mais por dia, ele toma mais cafe?
+    Quantidade de copos tomados por dia por faixa etária
+    Há alguma relação entre o tipo de cafe e quantidade trabalhada?
+    Tipo de cafe por sexo
+    Qual tipo de cafe resolve mais problemas
+    se eu trabalho mais horas eu resolvo mais problemas ?
+    Faixa etaria que resolve mais problemas e que toma Nescafe ?
+    Há uma diferença nas horas trabalhas entre as pessoas que toma cafe enquanto codam e aquelas que não toma cafe enquanto trabalha?
+    As mulheres tomam mais cafe antes, durante ou depois de trabalhar?
+    
+  Para ter acesso ao banco de dados acesse: https://www.kaggle.com/devready/coffee-and-code
+  
+  As respostas estão em elaboração
